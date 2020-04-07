@@ -15,7 +15,7 @@ class WelcomeViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let title = K.title
+        let title = K.appName
         
         animateTitleLabel(label: titleLabel, title: title)
     }
