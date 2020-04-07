@@ -15,7 +15,7 @@ class WelcomeViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let title = "⚡️FlashChat"
+        let title = Constants.title
         
         animateTitleLabel(label: titleLabel, title: title)
     }
