@@ -1,5 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
+******** This is for a test **********
+
 # Flash-Chat
 
 ## Our Goal
